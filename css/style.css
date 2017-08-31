@@ -1,0 +1,213 @@
+
+.main {
+	background:  black;
+	width: 100%;
+	border-radius: 0.7em;
+	padding: 0.5em;
+	margin-top: 0.1em;
+  opacity: 0.9;
+     }
+
+     .for-header{
+      width: 99%;
+     }
+
+.header {
+	background-repeat:  none;
+	width: 100%;
+	border-radius: 0.7em;
+  margin : 0.1em 0 0.1em 0;
+}
+
+.content{
+
+}
+
+.ln{
+	font-weight: bold;
+	color: yellow;
+	text-align: center;
+}
+
+.login{
+  margin-top: 0.1em;
+	background: black;
+	border-radius: 0.7em;
+	padding: 0.5em;
+	overflow: hidden;
+	clear: both;
+}
+ 
+ .lform{
+ 	width: 32%;
+ 	float: left;
+ }
+
+ .buttom{
+ 	background-color: green;
+ 	color: #fff;
+ 	font-weight: bold;
+ 	border-radius: 0.7em;
+ 	margin-left: 38%;
+ }
+
+ button:hover{
+ 	cursor: pointer;
+ 	color: red;
+ 	background-color: black;
+ }
+  
+  .forml1{
+  	width: 94%;
+  	padding: 0.5em;
+  	border-radius: 0.6em;
+  	margin-left: 0.3em;
+  }
+  .tform {
+  	margin-left: 4em ;
+  	font-weight: bold;
+  }
+
+  .bx{
+  	font-family: 'Open sans';
+  	font-size: 1em;
+  	color: white;
+  	display: inline-block;
+  	background: ;
+  	margin-bottom: 1em;
+ 
+  }
+   
+  #sign{
+  	margin-left: 3em;
+  }
+  #sign span {
+  	color: red;
+  	margin-right: 1em;
+  }
+
+  .show-img{
+  	width: 60%;
+  	margin-right: auto;
+  	height: auto;
+  	float: left;
+  	border-radius: 0.7em;
+  	position: relative;
+  }
+
+  .box{
+  	width: 20% ;
+  	border :0.1em solid red;
+  	background: black;
+  	float: left;
+  	margin: 0.1em 0.3em ;
+  	list-style-type: none;
+  	list-style-position: relative;
+  	border-radius: 0.3em;
+  }
+   .mg{
+   	border-radius: 0.2em;
+   	margin: 0.1em;
+    width: 85%;
+   }
+
+   .search{
+     width: 15em;
+     border: 0.1em solid red;
+     padding: 0.1em;
+     border-radius: 0.2em;
+   }
+
+    .show-detail{
+      width: 98%;
+    } 
+    .detail{
+      width: 100%;
+      margin: 0.1em;
+      border-radius: 0.7em;
+    }
+
+ #login-text{
+ 	width: 90%;
+ 	color: white;
+ 	font-weight: bold;
+ 	clear: both;
+ 	font-family: 'Open Sans';
+ 	padding: 1em;
+ 	text-align: justify;
+ }
+
+#reg{
+  width: 100%;
+  clear: both;
+}
+ #lside{
+ width: 40%;
+ border-left-color: white;
+ padding: 0.1em 0.4em;
+ margin-right: 1em ;
+ float: left;
+ }
+
+ #rside{
+  width: 56%;
+  float: right ;
+ }
+
+
+ .rtable tr td {
+  padding: 0.3em;
+  text-align: left;
+  height: 0.3em;
+ }
+
+ button.button {
+  text-align: left;
+ }
+
+  a:hover{
+    cursor: pointer;
+    text-decoration: none;
+  }
+
+ .char{
+  color: white;
+ }
+
+ #rside{
+  background-image: url('../images/food1.jpg');
+  height: ;
+  width: 40%;
+  border-left: 0.1em solid white;
+  padding: 0.1em;
+ }
+
+.vote-section{
+  width: 100%;
+  height: auto;
+  background: black;
+  color: white;
+  border-radius: 0.3em;
+  text-align: center;
+  padding: 0.2em 0;
+}
+.edit{
+  display: inline-block;
+  text-align: left;
+
+}
+
+#add{
+  width: 35%;
+  height: auto;
+  color: white;
+  background: black;
+  border-radius: 0.3em;
+  padding: 0.5em;
+}
+
+#im-holder{
+  width: auto
+  border: 0.1em solid red;
+  border-radius: 0.3em;
+}
